@@ -22,12 +22,6 @@ I am passionate about technology and currently focused on building robust system
 
 ---
 
-## 📊 GitHub Stats
-![Vinícius's Stats](https://github-readme-stats.vercel.app/api?username=tavrocha&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavrocha&layout=compact&theme=radical)
-
----
-
 ## 🤝 Let's connect!
 I'm always open to discussing systems, game development, or new opportunities!
 
