@@ -23,9 +23,7 @@ I am passionate about technology and currently focused on building robust system
 ---
 
 ## 📊 GitHub Stats
-Keeping track of my daily commits and coding evolution via Git:
-
-![Vinícius Stats](https://github-readme-stats.vercel.app/api?username=tavrocha&show_icons=true&theme=radical)
+![Vinícius's Stats](https://github-readme-stats.vercel.app/api?username=tavrocha&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tavrocha&layout=compact&theme=radical)
 
 ---
