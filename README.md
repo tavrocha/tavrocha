@@ -103,7 +103,7 @@ Uma solução desenvolvida em **Python** que conecta dados do mercado financeiro
 
 <div align="center">
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=tavrocha&theme=tokyonight" alt="GitHub Streak" />
-  <img height="170em" src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=tavrocha&layout=compact&theme=tokyonight" alt="Linguagens" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tavrocha&theme=tokyonight" alt="Linguagens Mais Usadas" />
 </div>
 
 ---
