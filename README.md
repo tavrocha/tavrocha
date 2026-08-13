@@ -35,7 +35,7 @@
       </ul>
     </td>
     <td align="center" valign="middle" width="30%">
-      <img src="./assets/sprite.gif" width="160" alt="Pixel Art Sprite Animado" /><br/>
+      <img src="ippo.gif" width="160" alt="Ippo Pixel Art" /><br/>
       <sub>Arte do sprite por <a href="https://xhienx.artstation.com/projects/4brzVn" target="_blank">xhienx</a></sub>
     </td>
   </tr>
