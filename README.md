@@ -109,8 +109,8 @@ Uma solução desenvolvida em **Python** que conecta dados do mercado financeiro
 ---
 
 <div align="center">
-  <sub><i>"A melhor maneira de prever o futuro é inventá-lo."</i></sub><br/>
-  <b>Aberto a novas oportunidades e colaborações! 🚀</b>
+  <sub><i>"Suas ideias não existem para ficarem aprisionadas"</i></sub><br/>
+  <b>Aberto a novas colaborações! 🚀</b>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=tavrocha&color=00F5FF&style=flat-square&label=VISITAS" alt="Visitor Counter">
 </div>
