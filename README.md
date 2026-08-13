@@ -31,7 +31,7 @@
 
 ---
 
-## 🚀 Projeto em Destaque (Principal)
+## 🚀 Projeto em Destaque
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Uma solução desenvolvida em **Python** que conecta dados do mercado financeiro
 
 ---
 
-## 🛠️ Minha Caixa de Ferramentas (Tech Stack)
+## 🛠️ Tech Stack
 
 <div align="center">
 
