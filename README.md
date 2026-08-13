@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Header Animado - Dashboard Title -->
+  <!-- Header Animado - Dashboard Title (Texto Sanitizado para Estabilidade) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5FF&center=true&vcenter=true&width=600&lines=Dashboard+de+Perfil:+Vinícius+Tavares+👋;Controle+Low-Level+%26+Alta+Performance;C%23+%2F+C%2B%2B+GameDev+%2F+IA+%2F+AWS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F5FF&center=true&vcenter=true&width=600&lines=Profile+Dashboard:+Vinicius+Tavares;Embedded+%26+High-Performance+Control;C%23+%2F+C%2B%2B+GameDev+%2F+AI+%2F+AWS" alt="Typing SVG" />
   </a>
 
   <p align="center">
