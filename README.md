@@ -35,8 +35,8 @@
       </ul>
     </td>
     <td align="center" valign="middle" width="30%">
-      <img src="ippo.gif" width="160" alt="Ippo Pixel Art" /><br/>
-      <sub>Arte do sprite por <a href="https://xhienx.artstation.com/projects/4brzVn" target="_blank">xhienx</a></sub>
+      <!-- Se o arquivo subir com outro nome, troque ippo.gif pelo nome exato dele -->
+      <img src="ippo.gif" width="160" alt="Ippo Pixel Art" />
     </td>
   </tr>
 </table>
