@@ -51,7 +51,11 @@
 
 Uma solução desenvolvida em **Python** que conecta dados do mercado financeiro a modelos de Inteligência Artificial para análise avançada de investimentos, geração automática de insights e tomada de decisão estratégica.
 
-[![Repo INvest](https://github-readme-stats.vercel.app/api/pin/?username=tavrocha&repo=INvest&theme=tokyonight)](https://github.com/tavrocha/INvest)
+<br>
+
+<a href="https://github.com/tavrocha/INvest">
+  <img src="https://github.com/user-attachments/assets/5eb259cf-2040-408d-8183-3b200637581a" width="54" alt="Evolução Ícone INvest" />
+</a>
 
 </div>
 
@@ -112,4 +116,6 @@ Uma solução desenvolvida em **Python** que conecta dados do mercado financeiro
   <b>Aberto a novas colaborações! 🚀</b>
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=tavrocha&color=00F5FF&style=flat-square&label=VISITAS" alt="Visitor Counter">
+  <br><br>
+  <sub><a href="https://www.flaticon.com/br/icones-gratis/evolucao" title="evolução ícones">Evolução ícones criados por Magnific - Flaticon</a></sub>
 </div>
