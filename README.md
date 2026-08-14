@@ -35,8 +35,7 @@
       </ul>
     </td>
     <td align="center" valign="middle" width="30%">
-      <!-- Se o arquivo subir com outro nome, troque ippo.gif pelo nome exato dele -->
-      <img src="ippo.gif" width="160" alt="Ippo Pixel Art" />
+      <img src="https://github.com/user-attachments/assets/0014a058-c869-45d0-90ea-87ce19e85328" width="270" alt="Ippo Pixel Art" />
     </td>
   </tr>
 </table>
