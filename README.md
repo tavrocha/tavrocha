@@ -116,5 +116,4 @@ Uma solução desenvolvida em **Python** que conecta dados do mercado financeiro
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=tavrocha&color=00F5FF&style=flat-square&label=VISITAS" alt="Visitor Counter">
   <br><br>
-  <sub><a href="https://www.flaticon.com/br/icones-gratis/evolucao" title="evolução ícones">Evolução ícones criados por Magnific - Flaticon</a></sub>
 </div>
